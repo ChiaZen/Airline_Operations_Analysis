@@ -12,6 +12,20 @@ This project demonstrates a practical application of data analysis and operation
 3. Forecast crew demand based on scheduled flights and seasonal variations.
 4. Deliver a responsive Streamlit dashboard for scenario testing.
 
+<hr>
+
+### Tech stacks
+| Category  | Tech stack | 
+| ------------- | ------------- |
+|Data Handling	| Python, Pandas, NumPy |
+|Optimization	| PuLP / Google OR-Tools |
+|Visualization	| Plotly, Matplotlib |
+|Dashboard UI	| Streamlit |
+|Deployment |	Streamlit Cloud |
+|Version Control |	Git & GitHub |
+
+
+
 
 
 Project Documentation
